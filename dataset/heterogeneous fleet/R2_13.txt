@@ -1,0 +1,5 @@
+VehicleID  LoadCapacity   BatteryCapacity   EnergyConsumptionRate   Velocity SwappingTime
+1          300            54.567                0.85                    1       10
+3          600            66.693                1.05                    1       10 
+
+ 
